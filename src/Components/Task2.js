@@ -25,7 +25,7 @@ class LifecycleComponent extends Component {
 
   render() {
     return (
-      <div>
+      <div className='buttons'>
         <h1>Count: {this.state.count}</h1>
         <button onClick={this.incrementCount}>Increment</button> 
       </div>

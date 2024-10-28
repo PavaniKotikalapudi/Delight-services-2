@@ -27,7 +27,8 @@ body.dark {
 }
 
 body.dark .app-container {
-  background-color: #444444;
+  background-color:#444444;
+  margin-bottom: 10px;
 }
 
 /* Header Styles */
@@ -75,8 +76,8 @@ body.dark .registration-form input {
 
 button {
   padding: 10px;
-  background-color: #007bff;
-  color: #ffffff;
+  background-color: #8ee4f6;
+  color: #0b0b0b;
   border: none;
   border-radius: 5px;
   cursor: pointer;
@@ -90,6 +91,7 @@ button:hover {
 
 body.dark button {
   background-color: #1a73e8;
+  color: white;
 }
 
 button:hover {
