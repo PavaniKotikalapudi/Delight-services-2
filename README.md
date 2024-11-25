@@ -1,3 +1,6 @@
+# I deployed my project in netlify.app
+
+[Please visit my website](https://papaya-basbousa-c7658b.netlify.app/)
 
 
 
@@ -74,9 +77,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 
--->I deployed my project in netlify.app
-
---->[Please visit my website](https://papaya-basbousa-c7658b.netlify.app/)
 
 
 
